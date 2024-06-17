@@ -103,3 +103,6 @@ pythonプログラムを実行
 ```
 python create_image_by_ai.py
 ```
+
+## 参考URL
+https://www.insurtechlab.net/use_amazon_bedrock/
